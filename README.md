@@ -4,6 +4,7 @@ This is the source from the Clojure web development session
 on November 4th, 2010, covering Moustache, Enlive and Ring.
 
 It demonstrates
+
 * Setting up routes to web pages
 * Passing variables to routes
 * Substituting content into an HTML template with Enlive
